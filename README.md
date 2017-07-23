@@ -1,2 +1,3 @@
 # hell-world
-Just another repository
+
+This is daGamaest. Just had my breakfast.
